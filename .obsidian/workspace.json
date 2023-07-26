@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "d01d77d47c5d368c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3000c9d57008193e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "476371ac2e66bdc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking-internal-lvl3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac862b90d4903b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "687b95a6367f9cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc2abe9145d4d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d73b6ffd6c05c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66fac1e96255bc52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b900b34536c3107",
+    "type": "split",
+    "children": [
+      {
+        "id": "730d2d9ebc4f9bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7bd5eb11270fa1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "networking-internal-lvl3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec8073963629bc8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "networking-internal-lvl3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef6c521d3971326e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "549c8fd6c442f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "networking-internal-lvl3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "476371ac2e66bdc2",
+  "lastOpenFiles": [
+    "MAC.md",
+    "networking-internal-lvl3.md",
+    "Buoyancy.md",
+    "Pasted image 20230725214937.png",
+    "FTP.md",
+    "Momentum.md",
+    "pressure.md",
+    "OSI.md",
+    "ftp-protocal.md",
+    "networking-internal-lvl3"
+  ]
+}
