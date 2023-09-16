@@ -22,3 +22,12 @@ $$p_{in}=p_{out}- \frac{w_0}{gV}$$
 Air obeys the **ideal gas** equations derived in [[Momentum]]
 $$PV=nRT$$
 $$\frac{PV}{nT}=R=const.$$
+
+in the example of a hot air balloon V and P are constant while T and n vary so three constants.
+$$nT=const.$$
+since $$  p \propto n$$
+$$ p_{in}T_{in} = p_{out}T_{out}$$
+
+p<sub>out</sub> when a = 0
+$$p_{out} = \frac{w_0}{Vg}$$
+![[Pasted image 20230726195220.png]]
