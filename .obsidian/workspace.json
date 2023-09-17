@@ -143,8 +143,12 @@
             "id": "ed41079e1251e253",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chem18-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -215,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History-NZ-wars-timeline.md",
+                "file": "Chem18-09-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History-NZ-wars-timeline.md",
+                "file": "Chem18-09-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History-NZ-wars-timeline.md"
+                "file": "Chem18-09-2023.md"
               }
             }
           },
