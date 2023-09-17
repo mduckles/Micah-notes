@@ -118,9 +118,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3697da3979fd959a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
+            "id": "a48c3ec2e6239cff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "ed41079e1251e253",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -187,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TaranakiWar.md",
+                "file": "History-NZ-wars-timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TaranakiWar.md",
+                "file": "History-NZ-wars-timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TaranakiWar.md"
+                "file": "History-NZ-wars-timeline.md"
               }
             }
           },
@@ -258,8 +286,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cafd3ce519e07705",
+  "active": "ed41079e1251e253",
   "lastOpenFiles": [
+    "TaranakiWar.md",
     "second-order-differential-equations.md",
     "compsci-exeternal-q3-4.md",
     "History-22-08-2023.md",
